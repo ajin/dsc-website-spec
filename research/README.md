@@ -2,7 +2,7 @@
 
 Onderbouwend onderzoek voor de specificatie van de DSC-website. Deze map bevat
 het bewijsmateriaal achter de menu- en navigatiekeuzes die zijn vastgelegd in
-[`../docs/menustructuur.md`](../docs/menustructuur.md).
+[`../docs/requirements.md`](../docs/requirements.md).
 
 ## Wat staat hier
 

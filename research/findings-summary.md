@@ -3,7 +3,7 @@
 Volledige uitwerking van het onderzoek naar de navigatiemenu's van Nederlandse
 schaakclub-websites. Dit document is de leesbare tegenhanger van
 `chess-menu-research.xlsx` en vormt de onderbouwing voor de menukeuzes in
-[`../docs/menustructuur.md`](../docs/menustructuur.md).
+[`../docs/requirements.md`](../docs/requirements.md).
 
 ## Opzet
 
