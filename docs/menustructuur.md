@@ -4,50 +4,40 @@
 
 ---
 
-## Hoofdmenu (7 items)
+## Menu
 
-Home – Senioren – Jeugd – Toernooien – Lid worden? – Over DSC – Contact
+Zeven hoofditems. Home, Lid worden? en Contact zijn losse pagina's zonder
+dropdown; de overige vier hebben één niveau submenu.
 
-Home, Lid worden? en Contact zijn losse pagina's zonder dropdown. De overige vier hebben één niveau submenu.
-
----
-
-## Senioren
-- Interne competitie
-- Externe competitie *(KNSB, HSB, e.a. als content op de pagina)*
-- Damesteam
-- Stand & uitslagen
-- Reglement
-- Kalender
-
-## Jeugd
-- Informatie en inschrijving
-- Training en examens
-- Stand & uitslagen
-- Reglement
-- Kalender
-
-## Toernooien
-- OGD
-- OPK
-- Kroeglopen
-- Grand Prix Rapid
-
-## Over DSC
-- Over de club / bestuur
-- Sociale veiligheid
-- Huisregels
-- Vertrouwenspersoon
-- Privacy
-
----
-
-## Wat hier niet staat
-
-- **Footer.** De footer is geen menu maar wel overal zichtbaar — zie
-  [`requirements.md`](requirements.md#footer).
-- **Technische uitwerking van toernooien** (post-categorieën, plugins) — zie
-  [`requirements.md`](requirements.md#toernooien).
+```text
+Home
+Senioren
+├── Interne competitie
+├── Externe competitie   (KNSB, HSB, e.a. als content op de pagina)
+├── Damesteam
+├── Stand & uitslagen
+├── Reglement
+└── Kalender
+Jeugd
+├── Informatie en inschrijving
+├── Training en examens
+├── Stand & uitslagen
+├── Reglement
+└── Kalender
+Toernooien (post-categorieën met beschrijving)
+├── OGD
+├── OPK
+├── Kroeglopen
+└── Grand Prix Rapid
+Lid worden?
+Over DSC
+├── Over de club / bestuur
+├── Sociale veiligheid
+├── Huisregels
+├── Vertrouwenspersoon
+└── Privacy
+Contact
+```
 
 ---
 
