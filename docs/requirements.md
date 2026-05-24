@@ -29,11 +29,11 @@ Jeugd
 ├── Stand & uitslagen
 ├── Reglement
 └── Kalender
-Toernooien (post-categorieën met beschrijving)
-├── OGD
-├── OPK
-├── Kroeglopen
-└── Grand Prix Rapid
+Toernooien
+├── OGD                  ┐
+├── OPK                  │  elk een pagina met toernooi-info
+├── Kroeglopen           │  + alle posts in die categorie
+└── Grand Prix Rapid     ┘
 Lid worden?
 Over DSC
 ├── Over de club / bestuur
@@ -57,8 +57,8 @@ Contact
 - **Externe competitie staat onder Senioren, niet onder Toernooien.** De
   losse competities (KNSB, HSB e.a.) zijn teamcompetitie en staan als content
   op die pagina, niet als menu-label.
-- **Toernooien.** Elke toernooipagina bevat de eigen aanmeldinfo; geen apart
-  "aanmelden" menu-item nodig.
+- **Toernooien.** Elk submenu-item (OGD, OPK, Kroeglopen, Grand Prix Rapid)
+  is een eigen pagina met (a) een beschrijving van het toernooi, en (b) een overzicht van alle posts in de bijbehorende categorie. 
 - **Damesteam onder Senioren.** Als het werven van damesspelers expliciet
   strategisch wordt, kan "Dames" gepromoveerd worden tot hoofditem.
 
